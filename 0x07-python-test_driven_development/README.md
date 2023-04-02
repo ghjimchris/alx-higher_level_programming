@@ -1,4 +1,4 @@
-#0x07. Python - Test-driven development
+0x07. Python - Test-driven development
 0. Integers addition
 1. Divide a matrix
 2. Say my name
