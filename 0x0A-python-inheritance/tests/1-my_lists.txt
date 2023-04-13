@@ -1,4 +1,4 @@
-Module 1-my_list
+1-my_list
 
 Importing MyList class:
 
