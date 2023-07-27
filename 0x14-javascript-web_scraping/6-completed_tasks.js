@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 /* computes the number of tasks completed by user id.
     - the first argument is the API URL.
     - only prints users with completed task.
